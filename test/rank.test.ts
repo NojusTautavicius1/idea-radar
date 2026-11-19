@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { buildPrompt, toIdeas } from "../src/rank.js";
+import { buildPrompt, sourceLabel, toIdeas } from "../src/rank.js";
 import { emptyState } from "../src/state.js";
 import { escapeHtml, formatIdea } from "../src/telegram.js";
 import { item } from "./fixtures.js";
@@ -56,5 +56,12 @@ describe("telegram formatting", () => {
     const html = formatIdea(idea!, 0, 1);
     expect(html).toContain("AI &lt;agent&gt; &amp; co");
     expect(html).not.toContain("<b>x</b>");
+  });
+});
+
+describe("sourceLabel", () => {
+  it("doesn't repeat the prefix HN titles already have", () => {
+    expect(sourceLabel(item({ id: "h", where: "Ask HN", title: "Ask HN: Is X dead?" }))).toBe("Ask HN: Is X dead?");
+    expect(sourceLabel(item({ id: "r", where: "r/SaaS", title: "Churn help" }))).toBe("r/SaaS: Churn help");
   });
 });

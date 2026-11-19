@@ -93,9 +93,15 @@ export function toIdeas(raw: z.infer<typeof IdeaSchema>[], candidates: Item[], d
       sources: sourceIds
         .map((id) => byId.get(id))
         .filter((item): item is Item => item !== undefined)
-        .map((item) => ({ url: item.url, label: `${item.where}: ${item.title}`.slice(0, 90) })),
+        .map((item) => ({ url: item.url, label: sourceLabel(item) })),
     }))
     .filter((idea) => idea.sources.length > 0)
     .slice(0, 5)
     .map((idea, i) => ({ ...idea, id: `${date}-${i + 1}` }));
+}
+
+// "Show HN: x" already says where it's from; others get "r/SaaS: x" / "Python: owner/repo".
+export function sourceLabel(item: Item): string {
+  const label = item.title.startsWith(item.where) ? item.title : `${item.where}: ${item.title}`;
+  return label.length > 90 ? label.slice(0, 89) + "…" : label;
 }
