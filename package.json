@@ -1,0 +1,27 @@
+{
+  "name": "idea-radar",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Daily Telegram digest of product and automation ideas, picked by Claude from Hacker News, Reddit, GitHub and Product Hunt",
+  "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "digest": "tsx src/main.ts",
+    "digest:dry": "tsx src/main.ts --dry",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "whoami": "tsx src/whoami.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^1.10.0",
+    "zod": "^4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.5",
+    "tsx": "^4.23.15",
+    "typescript": "^6.0.3",
+    "vitest": "^5.1.1"
+  }
+}
