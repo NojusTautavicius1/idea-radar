@@ -110,7 +110,49 @@
     "github:1461201061": "2026-11-19",
     "github:1456098883": "2026-11-19",
     "github:1460853104": "2026-11-19",
-    "github:1459083259": "2026-11-19"
+    "github:1459083259": "2026-11-19",
+    "hackernews:50562508": "2026-11-20",
+    "hackernews:50561515": "2026-11-20",
+    "hackernews:50561436": "2026-11-20",
+    "hackernews:50561199": "2026-11-20",
+    "hackernews:50560789": "2026-11-20",
+    "hackernews:50559749": "2026-11-20",
+    "hackernews:50556534": "2026-11-20",
+    "hackernews:50565484": "2026-11-20",
+    "hackernews:50562528": "2026-11-20",
+    "hackernews:50561571": "2026-11-20",
+    "hackernews:50572822": "2026-11-20",
+    "hackernews:50572503": "2026-11-20",
+    "hackernews:50572448": "2026-11-20",
+    "hackernews:50572430": "2026-11-20",
+    "hackernews:50572355": "2026-11-20",
+    "hackernews:50572116": "2026-11-20",
+    "hackernews:50571189": "2026-11-20",
+    "hackernews:50570628": "2026-11-20",
+    "hackernews:50569998": "2026-11-20",
+    "hackernews:50569890": "2026-11-20",
+    "hackernews:50569519": "2026-11-20",
+    "hackernews:50569516": "2026-11-20",
+    "hackernews:50569226": "2026-11-20",
+    "hackernews:50568861": "2026-11-20",
+    "github:1464271688": "2026-11-20",
+    "github:1456428742": "2026-11-20",
+    "github:1456302476": "2026-11-20",
+    "github:1459769414": "2026-11-20",
+    "github:1463683138": "2026-11-20",
+    "github:1462897554": "2026-11-20",
+    "github:1463836556": "2026-11-20",
+    "github:1457016136": "2026-11-20",
+    "github:1459122623": "2026-11-20",
+    "github:1461542779": "2026-11-20",
+    "github:1463349200": "2026-11-20",
+    "github:1462898291": "2026-11-20",
+    "github:1463290340": "2026-11-20",
+    "github:1462900143": "2026-11-20",
+    "github:1463331741": "2026-11-20",
+    "github:1463330274": "2026-11-20",
+    "github:1463328520": "2026-11-20",
+    "github:1463325905": "2026-11-20"
   },
   "sent": [
     {
@@ -151,6 +193,34 @@
       "category": "AI / automatizacija",
       "sources": [
         "https://quebec.yarn.so"
+      ]
+    },
+    {
+      "id": "2026-11-20-1",
+      "date": "2026-11-20",
+      "title": "Naujų .lt domenų stebėjimas kaip GraspIT klientų paieška",
+      "category": "Web studijai",
+      "sources": [
+        "https://startups.novumsignals.com/",
+        "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935"
+      ]
+    },
+    {
+      "id": "2026-11-20-2",
+      "date": "2026-11-20",
+      "title": "Telegram botas: lietuviška balso žinutė → darbo ataskaita ir užduotys",
+      "category": "AI / automatizacija",
+      "sources": [
+        "https://github.com/andyhuo520/beanpod"
+      ]
+    },
+    {
+      "id": "2026-11-20-3",
+      "date": "2026-11-20",
+      "title": "3D produktų animacijos vietiniams gamintojams per Blender + AI",
+      "category": "Web studijai",
+      "sources": [
+        "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
       ]
     }
   ],
