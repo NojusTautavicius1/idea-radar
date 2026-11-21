@@ -152,7 +152,48 @@
     "github:1463331741": "2026-11-20",
     "github:1463330274": "2026-11-20",
     "github:1463328520": "2026-11-20",
-    "github:1463325905": "2026-11-20"
+    "github:1463325905": "2026-11-20",
+    "hackernews:50581403": "2026-11-21",
+    "hackernews:50564684": "2026-11-21",
+    "hackernews:50585962": "2026-11-21",
+    "hackernews:50583761": "2026-11-21",
+    "hackernews:50577613": "2026-11-21",
+    "hackernews:50587208": "2026-11-21",
+    "hackernews:50586648": "2026-11-21",
+    "hackernews:50586292": "2026-11-21",
+    "hackernews:50585376": "2026-11-21",
+    "hackernews:50583856": "2026-11-21",
+    "hackernews:50583768": "2026-11-21",
+    "hackernews:50583274": "2026-11-21",
+    "hackernews:50581260": "2026-11-21",
+    "hackernews:50581110": "2026-11-21",
+    "hackernews:50580536": "2026-11-21",
+    "hackernews:50579568": "2026-11-21",
+    "hackernews:50579331": "2026-11-21",
+    "hackernews:50579297": "2026-11-21",
+    "hackernews:50578358": "2026-11-21",
+    "hackernews:50577265": "2026-11-21",
+    "hackernews:50576232": "2026-11-21",
+    "hackernews:50576012": "2026-11-21",
+    "hackernews:50574968": "2026-11-21",
+    "hackernews:50574383": "2026-11-21",
+    "github:1459535564": "2026-11-21",
+    "github:1465760283": "2026-11-21",
+    "github:1459197237": "2026-11-21",
+    "github:1457605310": "2026-11-21",
+    "github:1459019240": "2026-11-21",
+    "github:1465999373": "2026-11-21",
+    "github:1465511622": "2026-11-21",
+    "github:1465762713": "2026-11-21",
+    "github:1465854044": "2026-11-21",
+    "github:1461695121": "2026-11-21",
+    "github:1460055581": "2026-11-21",
+    "github:1460848622": "2026-11-21",
+    "github:1465523535": "2026-11-21",
+    "github:1465545215": "2026-11-21",
+    "github:1463285784": "2026-11-21",
+    "github:1464782522": "2026-11-21",
+    "github:1463664909": "2026-11-21"
   },
   "sent": [
     {
@@ -221,6 +262,45 @@
       "category": "Web studijai",
       "sources": [
         "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon"
+      ]
+    },
+    {
+      "id": "2026-11-21-1",
+      "date": "2026-11-21",
+      "title": "Privatus AI asistentas įmonės dokumentams su ES serveriu",
+      "category": "AI / automatizacija",
+      "sources": [
+        "https://news.ycombinator.com/item?id=50585962",
+        "https://github.com/han938/open-webui-private-ai-desk",
+        "https://github.com/chase1225/anythingllm-verona-document-chat"
+      ]
+    },
+    {
+      "id": "2026-11-21-2",
+      "date": "2026-11-21",
+      "title": "AI sugeneruotų svetainių sutvarkymas už fiksuotą kainą",
+      "category": "Web studijai",
+      "sources": [
+        "https://slopstrap.mikelacher.com/",
+        "https://github.com/mankidev/antialgorithm"
+      ]
+    },
+    {
+      "id": "2026-11-21-3",
+      "date": "2026-11-21",
+      "title": "Klientų užklausų agentas, kuris atsakymus siunčia tik po patvirtinimo Telegram",
+      "category": "AI / automatizacija",
+      "sources": [
+        "https://github.com/replit/amuse"
+      ]
+    },
+    {
+      "id": "2026-11-21-4",
+      "date": "2026-11-21",
+      "title": "AI API išlaidų paskirstymas pagal klientą web agentūroms",
+      "category": "SaaS / produktas",
+      "sources": [
+        "https://github.com/ccarter01011/traxagent-claude-plugin"
       ]
     }
   ],
