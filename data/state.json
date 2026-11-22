@@ -193,7 +193,51 @@
     "github:1465545215": "2026-11-21",
     "github:1463285784": "2026-11-21",
     "github:1464782522": "2026-11-21",
-    "github:1463664909": "2026-11-21"
+    "github:1463664909": "2026-11-21",
+    "hackernews:50596664": "2026-11-22",
+    "hackernews:50590279": "2026-11-22",
+    "hackernews:50589235": "2026-11-22",
+    "hackernews:50589184": "2026-11-22",
+    "hackernews:50597612": "2026-11-22",
+    "hackernews:50596133": "2026-11-22",
+    "hackernews:50595554": "2026-11-22",
+    "hackernews:50595537": "2026-11-22",
+    "hackernews:50594911": "2026-11-22",
+    "hackernews:50594132": "2026-11-22",
+    "hackernews:50593737": "2026-11-22",
+    "hackernews:50593481": "2026-11-22",
+    "hackernews:50592097": "2026-11-22",
+    "hackernews:50591853": "2026-11-22",
+    "hackernews:50589618": "2026-11-22",
+    "hackernews:50588982": "2026-11-22",
+    "hackernews:50587875": "2026-11-22",
+    "hackernews:50583028": "2026-11-22",
+    "hackernews:50582069": "2026-11-22",
+    "github:1466635339": "2026-11-22",
+    "github:1466783475": "2026-11-22",
+    "github:1460814476": "2026-11-22",
+    "github:1466272233": "2026-11-22",
+    "github:1465134094": "2026-11-22",
+    "github:1458684694": "2026-11-22",
+    "github:1465366438": "2026-11-22",
+    "github:1460452633": "2026-11-22",
+    "github:1460746885": "2026-11-22",
+    "github:1466549501": "2026-11-22",
+    "github:1466552156": "2026-11-22",
+    "github:1466560083": "2026-11-22",
+    "github:1466548694": "2026-11-22",
+    "github:1466546866": "2026-11-22",
+    "github:1466545590": "2026-11-22",
+    "github:1466550855": "2026-11-22",
+    "github:1466561146": "2026-11-22",
+    "github:1466777193": "2026-11-22",
+    "github:1466562460": "2026-11-22",
+    "github:1466710080": "2026-11-22",
+    "github:1466583654": "2026-11-22",
+    "github:1466572590": "2026-11-22",
+    "github:1466553379": "2026-11-22",
+    "github:1465003685": "2026-11-22",
+    "github:1466548112": "2026-11-22"
   },
   "sent": [
     {
@@ -301,6 +345,24 @@
       "category": "SaaS / produktas",
       "sources": [
         "https://github.com/ccarter01011/traxagent-claude-plugin"
+      ]
+    },
+    {
+      "id": "2026-11-22-1",
+      "date": "2026-11-22",
+      "title": "Lietuvos teisės aktų MCP serveris AI agentams",
+      "category": "SaaS / produktas",
+      "sources": [
+        "https://www.pandex.io"
+      ]
+    },
+    {
+      "id": "2026-11-22-2",
+      "date": "2026-11-22",
+      "title": "AI testuotojai klientų svetainėms: formos, mobilūs vaizdai, vertimai",
+      "category": "Web studijai",
+      "sources": [
+        "https://github.com/pierridotite/mobile-agent-testers"
       ]
     }
   ],
