@@ -237,7 +237,56 @@
     "github:1466572590": "2026-11-22",
     "github:1466553379": "2026-11-22",
     "github:1465003685": "2026-11-22",
-    "github:1466548112": "2026-11-22"
+    "github:1466548112": "2026-11-22",
+    "hackernews:50611026": "2026-11-23",
+    "hackernews:50599762": "2026-11-23",
+    "hackernews:50600771": "2026-11-23",
+    "hackernews:50614249": "2026-11-23",
+    "hackernews:50611576": "2026-11-23",
+    "hackernews:50610743": "2026-11-23",
+    "hackernews:50610334": "2026-11-23",
+    "hackernews:50610318": "2026-11-23",
+    "hackernews:50609685": "2026-11-23",
+    "hackernews:50607668": "2026-11-23",
+    "hackernews:50607627": "2026-11-23",
+    "hackernews:50607261": "2026-11-23",
+    "hackernews:50606499": "2026-11-23",
+    "hackernews:50606192": "2026-11-23",
+    "hackernews:50604988": "2026-11-23",
+    "hackernews:50603845": "2026-11-23",
+    "hackernews:50603589": "2026-11-23",
+    "hackernews:50603143": "2026-11-23",
+    "hackernews:50602843": "2026-11-23",
+    "hackernews:50601525": "2026-11-23",
+    "hackernews:50598441": "2026-11-23",
+    "github:1461076894": "2026-11-23",
+    "github:1467769720": "2026-11-23",
+    "github:1463127932": "2026-11-23",
+    "github:1464966593": "2026-11-23",
+    "github:1465322684": "2026-11-23",
+    "github:1465342782": "2026-11-23",
+    "github:1460031638": "2026-11-23",
+    "github:1459972500": "2026-11-23",
+    "github:1462810208": "2026-11-23",
+    "github:1460527788": "2026-11-23",
+    "github:1465577232": "2026-11-23",
+    "github:1466871441": "2026-11-23",
+    "github:1466556840": "2026-11-23",
+    "github:1466776847": "2026-11-23",
+    "github:1466547889": "2026-11-23",
+    "github:1462535793": "2026-11-23",
+    "github:1465415390": "2026-11-23",
+    "github:1463667300": "2026-11-23",
+    "github:1468622637": "2026-11-23",
+    "github:1461748811": "2026-11-23",
+    "github:1461748797": "2026-11-23",
+    "github:1461748801": "2026-11-23",
+    "github:1461748802": "2026-11-23",
+    "github:1461748793": "2026-11-23",
+    "github:1460124962": "2026-11-23",
+    "github:1463538330": "2026-11-23",
+    "github:1459463902": "2026-11-23",
+    "github:1468232653": "2026-11-23"
   },
   "sent": [
     {
@@ -363,6 +412,24 @@
       "category": "Web studijai",
       "sources": [
         "https://github.com/pierridotite/mobile-agent-testers"
+      ]
+    },
+    {
+      "id": "2026-11-23-1",
+      "date": "2026-11-23",
+      "title": "Lietuviškų užklausų stebėjimas: „ieškau meistro“ → Telegram pranešimas su atsakymo juodraščiu",
+      "category": "AI / automatizacija",
+      "sources": [
+        "https://github.com/Octosift/OctoSift"
+      ]
+    },
+    {
+      "id": "2026-11-23-2",
+      "date": "2026-11-23",
+      "title": "Read-only MCP serveris lietuviškai apskaitos programai (B1.lt, Rivilė ir pan.)",
+      "category": "AI / automatizacija",
+      "sources": [
+        "https://github.com/w1ccc/sap-data-mcp"
       ]
     }
   ],
