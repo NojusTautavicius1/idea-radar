@@ -325,7 +325,56 @@
     "github:1465510335": "2026-11-24",
     "github:1462187304": "2026-11-24",
     "github:1469303205": "2026-11-24",
-    "github:1469683119": "2026-11-24"
+    "github:1469683119": "2026-11-24",
+    "hackernews:50638523": "2026-11-25",
+    "hackernews:50638503": "2026-11-25",
+    "hackernews:50637995": "2026-11-25",
+    "hackernews:50637936": "2026-11-25",
+    "hackernews:50630294": "2026-11-25",
+    "hackernews:50629936": "2026-11-25",
+    "hackernews:50623038": "2026-11-25",
+    "hackernews:50633601": "2026-11-25",
+    "hackernews:50630809": "2026-11-25",
+    "hackernews:50626772": "2026-11-25",
+    "hackernews:50625996": "2026-11-25",
+    "hackernews:50643129": "2026-11-25",
+    "hackernews:50643065": "2026-11-25",
+    "hackernews:50642496": "2026-11-25",
+    "hackernews:50642086": "2026-11-25",
+    "hackernews:50641171": "2026-11-25",
+    "hackernews:50638478": "2026-11-25",
+    "hackernews:50638220": "2026-11-25",
+    "hackernews:50638070": "2026-11-25",
+    "hackernews:50638032": "2026-11-25",
+    "hackernews:50637891": "2026-11-25",
+    "hackernews:50637890": "2026-11-25",
+    "hackernews:50637871": "2026-11-25",
+    "hackernews:50637686": "2026-11-25",
+    "hackernews:50637220": "2026-11-25",
+    "hackernews:50637056": "2026-11-25",
+    "hackernews:50634658": "2026-11-25",
+    "hackernews:50634426": "2026-11-25",
+    "hackernews:50633922": "2026-11-25",
+    "hackernews:50627726": "2026-11-25",
+    "hackernews:50627079": "2026-11-25",
+    "hackernews:50623866": "2026-11-25",
+    "github:1471003006": "2026-11-25",
+    "github:1468649172": "2026-11-25",
+    "github:1464213796": "2026-11-25",
+    "github:1466373118": "2026-11-25",
+    "github:1469683228": "2026-11-25",
+    "github:1469329665": "2026-11-25",
+    "github:1469320737": "2026-11-25",
+    "github:1468140561": "2026-11-25",
+    "github:1470089013": "2026-11-25",
+    "github:1464084020": "2026-11-25",
+    "github:1464480711": "2026-11-25",
+    "github:1470158398": "2026-11-25",
+    "github:1462349786": "2026-11-25",
+    "github:1467504277": "2026-11-25",
+    "github:1465556830": "2026-11-25",
+    "github:1462388337": "2026-11-25",
+    "github:1466005580": "2026-11-25"
   },
   "sent": [
     {
@@ -478,6 +527,25 @@
       "category": "Web studijai",
       "sources": [
         "https://stalw.art/blog/microsoft-exchange-replacement/"
+      ]
+    },
+    {
+      "id": "2026-11-25-1",
+      "date": "2026-11-25",
+      "title": "Google Maps verslai be svetainės → paruošta svetainės peržiūra → apmokėjimas",
+      "category": "Web studijai",
+      "sources": [
+        "https://github.com/matheusmongarde/garimpo"
+      ]
+    },
+    {
+      "id": "2026-11-25-2",
+      "date": "2026-11-25",
+      "title": "BDAR svetainės patikra: kokius asmens duomenis renka ir kur jie nuteka",
+      "category": "Web studijai",
+      "sources": [
+        "https://news.ycombinator.com/item?id=50626772",
+        "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each"
       ]
     }
   ],
