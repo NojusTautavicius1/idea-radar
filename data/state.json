@@ -374,7 +374,48 @@
     "github:1467504277": "2026-11-25",
     "github:1465556830": "2026-11-25",
     "github:1462388337": "2026-11-25",
-    "github:1466005580": "2026-11-25"
+    "github:1466005580": "2026-11-25",
+    "hackernews:50647219": "2026-11-26",
+    "hackernews:50642300": "2026-11-26",
+    "hackernews:50637887": "2026-11-26",
+    "hackernews:50631791": "2026-11-26",
+    "hackernews:50655664": "2026-11-26",
+    "hackernews:50651911": "2026-11-26",
+    "hackernews:50649864": "2026-11-26",
+    "hackernews:50655278": "2026-11-26",
+    "hackernews:50654289": "2026-11-26",
+    "hackernews:50653667": "2026-11-26",
+    "hackernews:50652184": "2026-11-26",
+    "hackernews:50651863": "2026-11-26",
+    "hackernews:50651719": "2026-11-26",
+    "hackernews:50651627": "2026-11-26",
+    "hackernews:50651117": "2026-11-26",
+    "hackernews:50650892": "2026-11-26",
+    "hackernews:50649834": "2026-11-26",
+    "hackernews:50648365": "2026-11-26",
+    "hackernews:50648323": "2026-11-26",
+    "hackernews:50648050": "2026-11-26",
+    "hackernews:50647673": "2026-11-26",
+    "hackernews:50647181": "2026-11-26",
+    "hackernews:50647161": "2026-11-26",
+    "hackernews:50646108": "2026-11-26",
+    "hackernews:50644817": "2026-11-26",
+    "hackernews:50634381": "2026-11-26",
+    "github:1471624301": "2026-11-26",
+    "github:1469915034": "2026-11-26",
+    "github:1470565350": "2026-11-26",
+    "github:1471422729": "2026-11-26",
+    "github:1472245786": "2026-11-26",
+    "github:1472243825": "2026-11-26",
+    "github:1468607832": "2026-11-26",
+    "github:1472261422": "2026-11-26",
+    "github:1472449381": "2026-11-26",
+    "github:1472477910": "2026-11-26",
+    "github:1466288654": "2026-11-26",
+    "github:1468954515": "2026-11-26",
+    "github:1470498776": "2026-11-26",
+    "github:1471355286": "2026-11-26",
+    "github:1466371838": "2026-11-26"
   },
   "sent": [
     {
@@ -546,6 +587,33 @@
       "sources": [
         "https://news.ycombinator.com/item?id=50626772",
         "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each"
+      ]
+    },
+    {
+      "id": "2026-11-26-1",
+      "date": "2026-11-26",
+      "title": "Instagram „komentaras → DM“ automatizacija vietiniams verslams",
+      "category": "Web studijai",
+      "sources": [
+        "https://github.com/jasonc00person/fewchat"
+      ]
+    },
+    {
+      "id": "2026-11-26-2",
+      "date": "2026-11-26",
+      "title": "Lietuviški AI agentų įgūdžiai smulkiam verslui: atsiliepimai ir įrašai",
+      "category": "AI / automatizacija",
+      "sources": [
+        "https://github.com/matheusmongarde/central"
+      ]
+    },
+    {
+      "id": "2026-11-26-3",
+      "date": "2026-11-26",
+      "title": "Slaptažodžių tvarkymas mažoms įmonėms su savu ES serveriu",
+      "category": "Web studijai",
+      "sources": [
+        "https://1password.com/blog/update-on-nov-2026-security-incident"
       ]
     }
   ],
