@@ -415,7 +415,45 @@
     "github:1468954515": "2026-11-26",
     "github:1470498776": "2026-11-26",
     "github:1471355286": "2026-11-26",
-    "github:1466371838": "2026-11-26"
+    "github:1466371838": "2026-11-26",
+    "hackernews:50667726": "2026-11-27",
+    "hackernews:50658191": "2026-11-27",
+    "hackernews:50657070": "2026-11-27",
+    "hackernews:50656036": "2026-11-27",
+    "hackernews:50655868": "2026-11-27",
+    "hackernews:50655639": "2026-11-27",
+    "hackernews:50651099": "2026-11-27",
+    "hackernews:50658963": "2026-11-27",
+    "hackernews:50657957": "2026-11-27",
+    "hackernews:50656763": "2026-11-27",
+    "hackernews:50645915": "2026-11-27",
+    "hackernews:50643767": "2026-11-27",
+    "hackernews:50666436": "2026-11-27",
+    "hackernews:50666375": "2026-11-27",
+    "hackernews:50666279": "2026-11-27",
+    "hackernews:50665968": "2026-11-27",
+    "hackernews:50665920": "2026-11-27",
+    "hackernews:50664325": "2026-11-27",
+    "hackernews:50663595": "2026-11-27",
+    "hackernews:50663261": "2026-11-27",
+    "hackernews:50661646": "2026-11-27",
+    "hackernews:50660180": "2026-11-27",
+    "hackernews:50659841": "2026-11-27",
+    "hackernews:50659640": "2026-11-27",
+    "hackernews:50658632": "2026-11-27",
+    "hackernews:50658498": "2026-11-27",
+    "hackernews:50657645": "2026-11-27",
+    "hackernews:50657530": "2026-11-27",
+    "hackernews:50657265": "2026-11-27",
+    "hackernews:50653477": "2026-11-27",
+    "github:1469172784": "2026-11-27",
+    "github:1468507631": "2026-11-27",
+    "github:1464987723": "2026-11-27",
+    "github:1473500322": "2026-11-27",
+    "github:1467710114": "2026-11-27",
+    "github:1473732246": "2026-11-27",
+    "github:1470351441": "2026-11-27",
+    "github:1465043231": "2026-11-27"
   },
   "sent": [
     {
@@ -614,6 +652,16 @@
       "category": "Web studijai",
       "sources": [
         "https://1password.com/blog/update-on-nov-2026-security-incident"
+      ]
+    },
+    {
+      "id": "2026-11-27-1",
+      "date": "2026-11-27",
+      "title": "BDAR užklausų siuntimas Lietuvos duomenų turėtojams",
+      "category": "SaaS / produktas",
+      "sources": [
+        "https://github.com/gary23w/f-ck_data_brokers",
+        "https://github.com/gary23w/f-ck_data_brokers"
       ]
     }
   ],
