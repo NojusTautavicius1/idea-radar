@@ -453,7 +453,49 @@
     "github:1467710114": "2026-11-27",
     "github:1473732246": "2026-11-27",
     "github:1470351441": "2026-11-27",
-    "github:1465043231": "2026-11-27"
+    "github:1465043231": "2026-11-27",
+    "hackernews:50677091": "2026-11-28",
+    "hackernews:50675831": "2026-11-28",
+    "hackernews:50673018": "2026-11-28",
+    "hackernews:50670443": "2026-11-28",
+    "hackernews:50669673": "2026-11-28",
+    "hackernews:50668269": "2026-11-28",
+    "hackernews:50667452": "2026-11-28",
+    "hackernews:50676723": "2026-11-28",
+    "hackernews:50676672": "2026-11-28",
+    "hackernews:50676390": "2026-11-28",
+    "hackernews:50674452": "2026-11-28",
+    "hackernews:50674218": "2026-11-28",
+    "hackernews:50672565": "2026-11-28",
+    "hackernews:50672521": "2026-11-28",
+    "hackernews:50670757": "2026-11-28",
+    "hackernews:50669765": "2026-11-28",
+    "hackernews:50668145": "2026-11-28",
+    "hackernews:50666724": "2026-11-28",
+    "hackernews:50662313": "2026-11-28",
+    "hackernews:50657346": "2026-11-28",
+    "github:1467736489": "2026-11-28",
+    "github:1473696118": "2026-11-28",
+    "github:1473710831": "2026-11-28",
+    "github:1472138919": "2026-11-28",
+    "github:1473746908": "2026-11-28",
+    "github:1473769186": "2026-11-28",
+    "github:1470916105": "2026-11-28",
+    "github:1471745501": "2026-11-28",
+    "github:1474586742": "2026-11-28",
+    "github:1473660810": "2026-11-28",
+    "github:1469001509": "2026-11-28",
+    "github:1471447593": "2026-11-28",
+    "github:1473994438": "2026-11-28",
+    "github:1471562520": "2026-11-28",
+    "github:1472754522": "2026-11-28",
+    "github:1473475459": "2026-11-28",
+    "github:1466709643": "2026-11-28",
+    "github:1473790489": "2026-11-28",
+    "github:1473610345": "2026-11-28",
+    "github:1466566347": "2026-11-28",
+    "github:1471229692": "2026-11-28",
+    "github:1469636353": "2026-11-28"
   },
   "sent": [
     {
@@ -662,6 +704,25 @@
       "sources": [
         "https://github.com/gary23w/f-ck_data_brokers",
         "https://github.com/gary23w/f-ck_data_brokers"
+      ]
+    },
+    {
+      "id": "2026-11-28-1",
+      "date": "2026-11-28",
+      "title": "Checkout puslapio skriptų stebėjimas e. parduotuvėms",
+      "category": "SaaS / produktas",
+      "sources": [
+        "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer"
+      ]
+    },
+    {
+      "id": "2026-11-28-2",
+      "date": "2026-11-28",
+      "title": "AI agentų įgūdžių ir MCP serverių duomenų nutekėjimo skeneris",
+      "category": "AI / automatizacija",
+      "sources": [
+        "https://github.com/convex/convex-backend-skill/issues/64",
+        "https://github.com/caglarsu/ai-coders-library"
       ]
     }
   ],
